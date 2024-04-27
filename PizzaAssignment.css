@@ -1,0 +1,56 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: white;
+    font-size: xx-large;
+    text-align: center;
+}
+
+h2{
+    color: white;
+}
+
+fieldset{
+    background-color: orange;
+}
+
+legend{
+    font-size: larger;
+    font-weight: bold;
+    padding-top: 30px;
+}
+
+.selectPizza{
+    height: 33.3%;
+}
+
+.selectToppings{
+    height: 20%;
+}
+
+
+.selectImage{
+    display: block; 
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.receiptType{
+    display: inline; 
+    margin-right: 30px; 
+    text-align: right; 
+    width: 200px;
+}
+
+.receiptPrice{
+    display: inline; 
+    text-align: right; 
+    width: 100px;
+}
+
+.receiptTotal{
+    font-weight: 700;
+}
